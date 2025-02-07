@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: china;
+  src: url(./assets/3856NeueMachina.woff);
+}
+
+*{
+  overflow-x: hidden;
+}
